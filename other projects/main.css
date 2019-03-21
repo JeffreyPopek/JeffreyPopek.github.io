@@ -1,0 +1,52 @@
+.box {
+    height: 100px;
+    width: 100px;
+}
+
+.purple{
+    background-color: purple;
+}
+
+.red {
+    background-color: red;
+
+}
+
+.blue {
+    background-color: blue;
+    
+}
+.row div {float: left}
+.row {
+clear:both
+}
+
+.green {
+    background-color: green;
+    
+}
+
+.yellow {
+    background-color: yellow;
+  
+}
+
+.grey {
+    background-color: grey;
+
+}
+
+
+.brown {
+    background-color:brown;
+}
+
+.pink {
+    background-color: pink;
+
+}
+
+.black {
+    background-color:black;
+   
+}
